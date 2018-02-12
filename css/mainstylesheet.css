@@ -1,0 +1,239 @@
+html { height: 100%; }
+body {
+    background: url(../_images/background.jpg) no-repeat center center fixed;
+    background-size: cover;
+    font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    margin:0;
+    }
+	
+.top-bar{
+    background-color:hsl(26, 70%, 22%);
+    font-family: 'Love Ya Like A Sister', cursive;
+    height:10%;
+    padding-top:10px;
+ }
+.social-media {
+    float:left;
+    left:0;
+    margin:0;
+	text-align:left;
+    top:0
+}
+.social-media li{
+    border-top:none;
+    display:block;
+    float:left;
+    padding-right:20px;
+ }   
+.social-media li a{
+    color:yellow;
+    text-decoration:none;
+}
+#currencyLabel
+{   color:yellow;
+    font-size:1.4em;
+    font-weight:200;
+    float:left;
+    text-align:right;
+}
+#dropdown
+{   border:0;
+    color:hsl(26, 70%, 22%);
+    float:right;
+    margin:0;
+    padding:0;
+    right:0%;
+    top:0%;
+  }
+select option{ 
+    width:100px;
+}
+.menubar
+{
+    height:20%;
+}
+.brand,
+.address-bar {
+       clear:both;
+       font-family: 'Love Ya Like A Sister', cursive;
+       overflow: hidden;
+    }
+.brand { 
+        color:hsl(26, 70%, 22%)	;
+        display: inherit;
+        font-size: 3em;
+        font-weight: 700;
+        line-height: normal;
+        margin: 0;
+        text-align:center;
+        text-shadow: 1px 1px 2px rgba(0,0,0,0.5);
+      }
+.address-bar {
+        color:yellow;
+        font-size: 1em;
+        letter-spacing: 3px;
+        margin: 0;
+        text-align: center;
+        text-shadow: 1px 1px 2px rgba(0,0,0,0.5);
+        text-transform: uppercase;
+        }
+#loading{
+    background-color: none;
+	visibility:hidden;
+    }
+.navi {
+	padding:30px 0px;
+    right:0;
+    width:100%; 
+    }
+.navi ul {
+    float:right;
+    list-style-type:none;
+    margin:0;
+    padding:0;
+    
+}
+.navi ul li {
+    background-color: hsl(26, 70%, 22%);
+    border:1px solid hsl(26, 70%, 22%);
+    border-radius: 10px;
+    display:inline-block;
+    font-weight: 300;
+    font-size: 1.4em;
+    position:relative;
+    
+   }
+
+.navi a {
+    color:yellow;
+    display:block;
+    line-height:40px;
+    padding:0 30px;
+    text-decoration:none;
+    
+}
+.navi a:hover,
+.navi a:focus,
+.navi a:active {
+    color:hsl(42, 98%, 84%)	;
+}
+
+#pageContent{
+    background-color: antiquewhite;
+    border-radius: 20px;
+    color:hsl(26, 70%, 22%);
+    display: inline-block;
+    font-size:1.2em;
+    height:70%;
+    letter-spacing:1px;
+    position:absolute;
+    padding-top:20px;
+    text-align: justify;
+    
+  }
+
+#pageContent  li
+{   display:inline-block;
+    list-style-type: none;
+    padding:0px 10px;
+   
+ }
+#pageContent  img
+{
+    align-items: center;
+    border:5px groove  hsl(26, 70%, 22%);
+    border-radius: 10px;
+    height:150px;
+    width :200px;
+  }
+#pageContent h3,h2
+{   border:0;
+    font-family: 'Love Ya Like A Sister', cursive;
+    font-weight: 700;
+    font-size:1em;
+	margin:0;
+	padding:10px;
+}
+#pageContent a
+{
+   color: hsl(26, 70%, 22%); 
+}
+#pageContent form
+{   padding-top:50px;
+    margin-top:30px
+    height:400px;
+    left:30%;
+    width:600px;
+    padding:0px 100px;
+    border-radius: 10px;
+    border:3px solid hsl(26, 70%, 22%);
+    align-content: center;
+    
+}
+#pageContent label
+{
+  color:hsl(26, 70%, 22%); 
+  padding-top: 20px;
+  float:left; 
+  max-width:20px;
+  margin-left:50px;
+    
+}
+#pageContent input[type=text]
+{
+  color:hsl(26, 70%, 22%); 
+  padding-top: 20px;
+  max-width:200px;
+  margin-left:100px;
+}
+#pageContent input[type=submit],input[type=reset]
+{
+    width:120px;
+    height:30px;
+    margin-right: 40px;
+    margin-top:40px;
+}
+textarea
+{
+    max-width: 200px;
+    margin-left:100px;
+}
+#pageContent 
+table{
+     border:5px outset hsl(26, 70%, 22%);
+     margin:0 10px;
+     text-align: left;
+    
+ }
+
+thead,th,td{
+    color:hsl(26, 70%, 22%);
+    padding:3px;
+    text-align: justify;
+}
+#footer
+{
+   background-color:hsl(26, 70%, 22%);
+   bottom:0px;
+   color:#ffffff;
+   height:5%;
+   width:100%;
+   left:0px;
+   margin-right: 0;
+   margin-left: 0;
+   position:fixed;
+   padding:10px;
+  }
+ .cmnlink li 
+ {   border-top:none; 
+    display:block;
+    float:right;
+    padding-right:20px;
+ }
+.cmnlink li a{
+    color:#fff;
+    text-decoration:none;
+}
+.clear{
+	clear:both;
+}

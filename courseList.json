@@ -1,0 +1,40 @@
+ {
+  "courses": [
+    {
+      "name": "Microsoft Word 2003",
+      "imgPath": "img/courses/cWord.jpg",
+      "summary": "Anybody working in the knowledge economy needs a basic understanding of word processing. This free online course covers the fundamental principles of using Microsoft Word 2003.",
+      "price": "2200"
+    },
+    {
+      "name": "Microsoft Excel 2003",
+      "imgPath": "img/courses/cExcel.jpg",
+      "summary": "Microsoft Excel 2003 is a spreadsheet application and part of Microsoft Office. Alison's free online course covers working with Microsoft Excel spreadsheet software to create, edit and save worksheets and workbooks.",
+      "price": "2300"
+    },
+    {
+      "name": "Fundamentals of Google Docs",
+      "imgPath": "img/courses/cGDoc.jpg",
+      "summary": "Google Docs is a free, Web-based office suite and data storage service offered by Google. It allows users to create and edit documents online while collaborating in real-time with other users. ",
+      "price": "2400"
+    },
+    {
+      "name": "Video Editing & Publishing",
+      "imgPath": "img/courses/cVEdit.jpg",
+      "summary": "Windows Movie Maker is a free video editing and publishing software program from Microsoft.",
+      "price": "2450"
+    },
+    {
+      "name": "Screen Capture Tools",
+      "imgPath": "img/courses/cScreenCap.jpg",
+      "summary": "Screen capture techniques allow you record what is happening on your computer screen, accompanied by a voiceover if required. ",
+      "price": "2500"
+    },
+    {
+      "name": "iTunes - How to Download Podcastsnull",
+      "imgPath": "img/courses/cITunes.jpg",
+      "summary": "iTunes is a very popular digital media player application that you can use to connect to Apple's iTunes Store on the Web.",
+      "price": "2550"
+    }
+  ]
+}

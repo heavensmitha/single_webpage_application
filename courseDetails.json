@@ -1,0 +1,50 @@
+  
+{
+  "courseslist": [
+    { 
+      "id": "1",
+      "link":"#page9",
+      "name": "Microsoft Word 2003",
+      "imgPath": "img/courses/cWord.jpg",
+      "summary": "Anybody working in the knowledge economy needs a basic understanding of word processing. This free online course covers the fundamental principles of using Microsoft Word 2003.The course empowers the trainee to demonstrate the ability to use a word processing application on a personal computer. He or she will understand and be able to accomplish basic operations associated with creating, formatting and finishing a word processing document ready for distribution. The trainee will be able to demonstrate competence in using some of the more intermediate features associated with word processing applications such as creating standard tables, using pictures and images within a document and importing objects."
+    },
+    { 
+      "id": "2",
+      "link":"#page10",
+      "name": "Microsoft Excel 2003",
+      "imgPath": "img/courses/cExcel.jpg",
+      "summary": "Microsoft Excel 2003 is a spreadsheet application and part of Microsoft Office. Alison's free online course covers working with Microsoft Excel spreadsheet software to create, edit and save worksheets and workbooks.The course empowers the trainee to understand the basic concepts of spreadsheets and to demonstrate the ability to use a spreadsheet application on a personal computer. He or she will understand and be able to accomplish basic operations associated with developing, formatting and using a spreadsheet. Additionally,trainee will be able to accomplish standard mathematical operations using basic formulas and functions. The trainee will be able to demonstrate competence in using some of the Excel features such as filtering, managing data and creating charts."
+    },
+    { 
+      "id":"3",
+      "link":"#page11",
+      "name": "Fundamentals of Google Docs",
+      "imgPath": "img/courses/cGDoc.jpg",
+      "summary": "Google Docs is a free, Web-based office suite and data storage service offered by Google. It allows users to create and edit documents online while collaborating in real-time with other users. Google Docs is a free, Web-based office suite and data storage service offered by Google. It allows users to create and edit documents online while collaborating in real-time with other users. It is a collection of applications that make it easier to produce the kinds of files commonly used in corporate environments: documents, spreadsheets, and presentations. In this Google Docs training course, you will be given a basic introduction on how to use to Google Docs. Topics covered in the course include: Google collaboration and the sharing of information online, Google Documents, Google Spreadsheets, Google Forms, Google Presentations and Google sharing and other tips on how to use Google Docs. This Google Docs training will be of great interest to business professionals and individuals who would like to know how to use Google Docs to help improve productivity. Google Docs is fast becoming one of the world’s most popular online tools. If you are not aware of Google Docs, here is your opportunity to learn some very cool new skills.Start Now"
+    },
+    { 
+      "id":"4",
+      "link":"#page12",
+      "name": "Video Editing & Publishing",
+      "imgPath": "img/courses/cVEdit.jpg",
+      "summary": "Windows Movie Maker is a free video editing and publishing software program from Microsoft.Windows Movie Maker is a free video editing and publishing software program from Microsoft. This free online video editing course uses tutorials to show you how to use Windows Movie Maker to quickly and easily edit videos, add background audio or a voiceover, add transitions or effects to videos, and publish videos in a variety of formats. "
+    },
+    { 
+      "id":"5",
+      "link":"#page13",
+      "name": "Screen Capture Tools",
+      "imgPath": "img/courses/cScreenCap.jpg",
+      "summary": "Screen capture techniques allow you record what is happening on your computer screen, accompanied by a voiceover if required.Screen capture techniques allow you record what is happening on your computer screen, accompanied by a voiceover if required. This free online course shows you in a step-by-step manner how to record your computer screen using JING. This Web-based application allow you to record your computer screen along with a voiceover and upload the resulting videos onto the Web for others to view. "
+    },
+    {
+      "id":"6",
+      "link":"#page14",
+      "name": "iTunes - How to Download Podcastsnull",
+      "imgPath": "img/courses/cITunes.jpg",
+      "summary": "iTunes is a very popular digital media player application that you can use to connect to Apple's iTunes Store on the Web.After updating to iTunes 12.6 I can no longer download any podcasts into my iTunes library.  Prior to 12.6 I had no problems downloading any podcasts.  I've tried 6-8 different podcasts on iTunes and can't download podcasts from any of them.  I've had to go to each individual website and download it from there, but this is really time consuming and annoying to do.  I've tried to log a problem downloading podcast entry on iTunes but my request would not post and still could not download the podcast.  Any help would be greatly appreciated!"
+    }
+  ]
+}
+
+
+    

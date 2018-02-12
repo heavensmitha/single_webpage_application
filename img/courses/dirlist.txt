@@ -1,0 +1,7 @@
+cExcel.jpg
+cGDoc.jpg
+cITunes.jpg
+cScreenCap.jpg
+cVEdit.jpg
+cWord.jpg
+dirlist.txt
